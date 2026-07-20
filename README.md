@@ -390,5 +390,5 @@ Open_To:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,50:6A0DAD,100:4B0082"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:6A0DAD,100:4B0082"/>
 
