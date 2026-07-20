@@ -51,9 +51,21 @@
 
 Hi there! 👋
 
-I'm **Shruti Kasbe**, an **Entry-Level Java Full Stack Developer** and **Computer Engineering student** passionate about building scalable web applications using modern technologies.
+I'm **Shruti Kasbe**, Software Engineer with hands-on experience in Java, Spring Boot, Angular, SQL, Redis, and cloud-native application development. Passionate about building scalable backend systems, enterprise-grade REST APIs, and modern full-stack applications.
 
-💜 I enjoy solving real-world problems through code and continuously improving my backend and frontend development skills.
+My engineering approach focuses on clean architecture, performance optimization, maintainability, and delivering business value through technology. I enjoy solving complex problems involving distributed systems, microservices, API design, and cloud infrastructure.
+
+With practical industry experience and strong foundations in Data Structures, Object-Oriented Programming, SDLC, Agile methodologies, and system design principles, I continuously work on building production-ready software solutions.
+
+### Open To
+
+* Software Engineer Roles
+* Backend Engineering
+* Full Stack Development
+* Java & Spring Boot Opportunities
+* Microservices & Cloud Projects
+* Open Source Contributions
+* Product Engineering Teams
 
 ---
 
