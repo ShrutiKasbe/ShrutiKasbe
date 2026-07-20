@@ -1,3 +1,9 @@
+<img width="1911" height="916" alt="home" src="https://github.com/user-attachments/assets/7afa4d4d-b8a6-47ad-accf-307cf3de7332" />
+<img width="1911" height="912" alt="login" src="https://github.com/user-attachments/assets/bfae48b7-6c24-426f-862a-f14d660c2bf5" />
+<img width="1909" height="912" alt="search" src="https://github.com/user-attachments/assets/f8d8750a-50ed-4671-a0d4-27c96284836b" />
+<img width="1911" height="914" alt="seat" src="https://github.com/user-attachments/assets/65e8d42a-888a-4478-8eac-18fa413530d5" />
+<img width="1913" height="914" alt="booking" src="https://github.com/user-attachments/assets/deb4a9f3-a08b-4de9-bc44-9a4cb0ed21af" />
+<img width="1913" height="911" alt="ai" src="https://github.com/user-attachments/assets/ec6785bd-644b-420a-93fd-f90e86b4d2c4" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,50:6A0DAD,100:4B0082&text=Shruti%20Kasbe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
