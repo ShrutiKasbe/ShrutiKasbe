@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F97316,50:EA580C,100:C2410C&text=Shruti%20Kasbe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FB923C,50:F97316,100:EA580C&text=Shruti%20Kasbe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Computer+Engineering+Student;Always+Learning+New+Technologies"/>
 
