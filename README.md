@@ -55,15 +55,6 @@ I'm **Shruti Kasbe**, a Computer Engineering graduate and **Java Full Stack Deve
 
 I enjoy designing clean architectures, developing REST APIs, optimizing application performance, and solving real-world problems through technology. I continuously improve my skills by building practical projects and exploring industry best practices.
 
-### Open To
-
-* Software Engineer Roles
-* Backend Engineering
-* Full Stack Development
-* Java & Spring Boot Opportunities
-* Open Source Contributions
-
-
 ---
 
 ## 🚀 Currently Learning
@@ -79,10 +70,11 @@ I enjoy designing clean architectures, developing REST APIs, optimizing applicat
 
 ## 💼 Open To
 
-- Java Full Stack Developer Roles
-- Software Engineer
-- Backend Development
-- Spring Boot Developer
+- Software Engineer Roles
+- Backend Engineering
+- Full Stack Development
+- Java & Spring Boot Opportunities
+- Open Source Contributions
 - Internship & Full-Time Opportunities
 
 ---
@@ -253,21 +245,6 @@ HTML • CSS • JavaScript • REST API
 
 ---
 
-## 📢 Online Advertisement System
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • JSP • MySQL
-
-✔ Post Advertisements
-
-✔ Manage Advertisements
-
-✔ View Advertisements
-
-✔ Responsive Design
-
----
 
 # 🎓 Education
 
