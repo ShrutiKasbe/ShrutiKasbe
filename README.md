@@ -184,27 +184,27 @@ I'm **Shruti Kasbe**, an **Entry-Level Java Full Stack Developer** and **Compute
 
 ### Login Page
 
-![Login](images/login.png)
+![Login](images/login.jpg)
 
 ### Home Page
 
-![Home](images/home.png)
+![Home](images/home.jpg)
 
 ### Bus Search
 
-![Search](images/search.png)
+![Search](images/search.jpg)
 
 ### Seat Selection
 
-![Seat](images/seat.png)
+![Seat](images/seat.jpg)
 
 ### Booking Confirmation
 
-![Booking](images/booking.png)
+![Booking](images/booking.jpg)
 
 ### My Bookings
 
-![Bookings](images/mybookings.png)
+![Bookings](images/mybookings.jpg)
 
 ---
 
