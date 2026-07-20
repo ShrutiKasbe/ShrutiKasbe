@@ -61,9 +61,8 @@ I enjoy designing clean architectures, developing REST APIs, optimizing applicat
 * Backend Engineering
 * Full Stack Development
 * Java & Spring Boot Opportunities
-* Microservices & Cloud Projects
 * Open Source Contributions
-* Product Engineering Teams
+
 
 ---
 
