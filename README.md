@@ -1,37 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,50:4A00E0,100:6A11CB&text=Shruti%20Kasbe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,50:6A0DAD,100:4B0082&text=Shruti%20Kasbe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=8E2DE2&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Computer+Engineering+Student;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Enthusiast;Computer+Engineering+Student;Always+Learning+New+Technologies"/>
+
+</div>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-8E2DE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.03%2F10-6A11CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java%20Full%20Stack%20Developer-Spring%20Boot%20%7C%20React.js-4A00E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pune-Maharashtra%2C%20India-8E2DE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.15%2F10-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java%20Full%20Stack-Spring%20Boot%20%7C%20React.js-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pune-Maharashtra-8A2BE2?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://github.com/ShrutiKasbe">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shruti-kasbe/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kasbeshruti04@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShrutiKasbe&style=for-the-badge&color=8E2DE2"/>
+<img src="https://komarev.com/ghpvc/?username=ShrutiKasbe&style=for-the-badge&color=8A2BE2"/>
 
 <img src="https://img.shields.io/github/followers/ShrutiKasbe?style=for-the-badge"/>
 
@@ -39,115 +44,186 @@
 
 </p>
 
-</div>
-
 ---
 
 # 👩‍💻 About Me
 
-Aspiring **Java Full Stack Developer** with hands-on experience in developing scalable web applications using **Java, Spring Boot, React.js, HTML, CSS, JavaScript, and MySQL**.
+Hi there! 👋
 
-💡 I enjoy building REST APIs, backend systems, and modern web applications while continuously improving my problem-solving and software development skills.
+I'm **Shruti Kasbe**, an **Entry-Level Java Full Stack Developer** and **Computer Engineering student** passionate about building scalable web applications using modern technologies.
+
+💜 I enjoy solving real-world problems through code and continuously improving my backend and frontend development skills.
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Learning
 
 - Spring Boot
 - React.js
-- REST APIs
+- REST API Development
 - MySQL
-- Git & GitHub
+- AWS Cloud
+- Data Structures & Algorithms
 
 ---
 
 ## 💼 Open To
 
-- Java Full Stack Developer
-- Backend Developer
+- Java Full Stack Developer Roles
 - Software Engineer
+- Backend Development
 - Spring Boot Developer
 - Internship & Full-Time Opportunities
 
 ---
 
+## 🌟 Quick Facts
+
+- 🎓 B.E. Computer Engineering (2026)
+- 📍 Pune, Maharashtra
+- 💻 Java Full Stack Developer
+- 🌱 Passionate about Full Stack Development
+- 🚀 Love Building Real-World Projects
+
+---
+
 # 🛠 Tech Stack
 
-### Languages
+## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,sql"/>
 </p>
 
-### Frontend
+## 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css"/>
 </p>
 
-### Backend
+## ⚙️ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=spring,mysql"/>
 </p>
 
-### Tools
+## 🛠 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws"/>
 </p>
 
 ---
+
 # 💼 Experience
 
 ## 🚀 Java Full Stack Developer Intern
-### SANYU INFOTECH PVT. LTD. | July 2025 - Present
+### SANYU INFOTECH PVT. LTD. | Oct 2025 – Mar 2026
 
-- Developed backend modules using **Java** and **Spring Boot**
-- Built and tested **REST APIs**
+- Developed CRM modules using **Java** and **Spring Boot**
+- Built and tested REST APIs
 - Integrated frontend with backend services
-- Performed database operations using **MySQL** and **MongoDB**
-- Worked with **Git & GitHub** for version control
-- Collaborated with team members in Agile development
+- Worked with MySQL & MongoDB
+- Used Git & GitHub for version control
+- Collaborated with developers using Agile methodology
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React.js` `REST API` `MySQL` `MongoDB` `Git` `GitHub`
+`Java` • `Spring Boot` • `React.js` • `REST API`
+`MySQL` • `MongoDB` • `Git` • `GitHub`
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
-## 🚌 BookMyRoute – Online Bus Ticket Booking Portal
+# 🚌 BookMyRoute – Online Bus Ticket Booking Portal
 
-**Tech Stack**
+> A modern Full Stack Bus Ticket Booking Platform built using **Java, Spring Boot, React.js and MySQL**
 
-`React.js` `Spring Boot` `MySQL` `REST API`
+## ✨ Key Features
 
-### Features
-
-- User Registration & Login
-- Bus Search
-- Seat Selection
-- Online Ticket Booking
-- Booking History
-- Admin Dashboard
+- 🔐 JWT Authentication
+- 🔑 Google OAuth Login
+- 🤖 AI Chatbot
+- 🚌 Smart Bus Search
+- 💺 Live Seat Selection
+- ⚡ WebSocket Real-Time Updates
+- 💳 Razorpay Payment Gateway
+- 📄 PDF Ticket Generation
+- 📧 Email Notifications
+- ☁ AWS Deployment Ready
 
 ---
+
+## 🛠 Tech Stack
+
+`Java`
+
+`Spring Boot`
+
+`React.js`
+
+`MySQL`
+
+`JWT`
+
+`REST API`
+
+`WebSocket`
+
+`Razorpay`
+
+`AWS`
+
+---
+
+## 📸 Project Gallery
+
+> 📷 Add your screenshots here.
+
+### Login Page
+
+![Login](images/login.png)
+
+### Home Page
+
+![Home](images/home.png)
+
+### Bus Search
+
+![Search](images/search.png)
+
+### Seat Selection
+
+![Seat](images/seat.png)
+
+### Booking Confirmation
+
+![Booking](images/booking.png)
+
+### My Bookings
+
+![Bookings](images/mybookings.png)
+
+---
+
+# 💻 Other Projects
 
 ## 🗳 Online Voting System
 
 **Tech Stack**
 
-`Java` `JSP` `Servlet` `JDBC` `MySQL`
+Java • JSP • Servlet • JDBC • MySQL
 
-### Features
+✔ Secure Login
 
-- Secure Login
-- Candidate Registration
-- One Vote Per User
-- Admin Dashboard
-- Result Analysis
+✔ Candidate Registration
+
+✔ One Vote Per User
+
+✔ Admin Dashboard
+
+✔ Vote Analytics
 
 ---
 
@@ -155,14 +231,15 @@ Aspiring **Java Full Stack Developer** with hands-on experience in developing sc
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `REST API`
+HTML • CSS • JavaScript • REST API
 
-### Features
+✔ Live Exchange Rates
 
-- Real-time Exchange Rates
-- Responsive UI
-- Input Validation
-- Error Handling
+✔ Responsive UI
+
+✔ Input Validation
+
+✔ Error Handling
 
 ---
 
@@ -170,56 +247,62 @@ Aspiring **Java Full Stack Developer** with hands-on experience in developing sc
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `JSP` `MySQL`
+HTML • CSS • JavaScript • JSP • MySQL
 
-### Features
+✔ Post Advertisements
 
-- Post Advertisements
-- Manage Ads
-- View Advertisements
-- User Friendly Interface
+✔ Manage Advertisements
+
+✔ View Advertisements
+
+✔ Responsive Design
 
 ---
 
 # 🎓 Education
 
-### 🎓 B.E. Computer Engineering
+## Bachelor of Engineering (Computer Engineering)
 
-Sinhgad Institute of Technology, Lonavala
+🏫 Sinhgad Institute of Technology, Lonavala
 
-**CGPA : 8.03 / 10**
+📅 2023 – 2026
 
-**2023 - 2026**
+🎯 CGPA: **8.15 / 10**
 
 ---
 
-### Diploma in Computer Engineering
+## Diploma in Computer Engineering
 
-Government Residential Women's Polytechnic, Latur
+🏫 Government Residential Women's Polytechnic, Latur
 
-**79.49%**
+📅 2020 – 2023
 
-**2020 - 2023**
+🎯 Percentage: **79.49%**
 
 ---
 
 # 🏆 Achievements
 
-- 📜 Data Structures Certificate (93/100)
-- 👩‍🏫 Organized LaTeX Training for 100+ Students
-- 💻 Java Full Stack Developer Intern
-- 🌐 Developed Multiple Full Stack Projects
+🏅 Java Full Stack Developer Certification – SANYU INFOTECH
+
+🏅 Data Structures Certificate (93/100)
+
+🏅 Successfully Organized LaTeX Training for 100+ Students
+
+🏅 Completed Multiple Full Stack Development Projects
+
+🏅 Internship Experience in Java Full Stack Development
 
 ---
 
-# 📚 Certifications
+# 📜 Certifications
 
-- Java Full Stack Development
-- Data Structures
-- Web Development
-- React.js
-- Spring Boot
-- Git & GitHub
+- ☕ Java Full Stack Developer
+- 🌱 Spring Boot Development
+- ⚛ React.js Development
+- 💻 Web Development
+- 📚 Data Structures
+- 🌐 Git & GitHub
 
 ---
 
@@ -237,7 +320,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKasbe&
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShrutiKasbe&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiKasbe&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -263,42 +346,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKasbe&
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ShrutiKasbe/ShrutiKasbe/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
+# 🎯 Current Goals
 
 ```yaml
 Learning:
-  - Spring Boot
+  - Advanced Spring Boot
   - React.js
-  - REST APIs
-  - MySQL
+  - AWS Cloud
   - Data Structures & Algorithms
 
 Building:
   - BookMyRoute
   - Java Full Stack Applications
-  - REST API Projects
+  - REST APIs
 
 Exploring:
-  - AWS
-  - MongoDB
   - Open Source
-  - Backend Development
+  - Cloud Deployment
+  - Modern Backend Development
 
 Open_To:
-  - Software Engineer Roles
+  - Software Engineer
   - Java Full Stack Developer
   - Backend Developer
-  - Internship Opportunities
 ```
 
 ---
@@ -325,13 +395,13 @@ Open_To:
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+## 💜 Thanks for Visiting!
 
-⭐ If you like my projects, don't forget to star the repositories.
+⭐ If you like my projects, feel free to explore my repositories.
 
-*"Code. Learn. Build. Repeat."* 🚀
+**"Learning, Building & Growing Every Day 🚀"**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8E2DE2,50:4A00E0,100:6A11CB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,50:6A0DAD,100:4B0082"/>
 
