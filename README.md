@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2026%20Graduate-22D3EE?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CGPA-8.15%2F10-6A0DAD?style=for-the-badge"/>
 
