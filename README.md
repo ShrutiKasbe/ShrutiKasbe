@@ -37,7 +37,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShrutiKasbe&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=ShrutiKasbe&style=for-the-badge&color=22D3EE"/>
 
 <img src="https://img.shields.io/github/followers/ShrutiKasbe?style=for-the-badge"/>
 
