@@ -202,9 +202,9 @@ I'm **Shruti Kasbe**, an **Entry-Level Java Full Stack Developer** and **Compute
 
 ![Booking](images/booking.jpg)
 
-### My Bookings
+### AI Recommendation System
 
-![Bookings](images/mybookings.jpg)
+![Bookings](images/ai.jpg)
 
 ---
 
