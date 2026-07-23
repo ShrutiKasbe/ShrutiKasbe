@@ -49,7 +49,7 @@
 
 # 👩‍💻 About Me
 
-Hi there! 👋
+
 
 I'm **Shruti Kasbe**, a Computer Engineering graduate and **Java Full Stack Developer** passionate about building scalable, secure, and user-friendly web applications. I have hands-on experience in **Java, Spring Boot, React.js, JavaScript, SQL, MySQL, and MongoDB**, with a strong interest in backend development and modern full-stack technologies.
 
